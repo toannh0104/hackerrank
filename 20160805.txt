@@ -1,0 +1,30 @@
+Hello everybody
+I am gonna show you something about ReactJS which is provided by Facebook
+
+What is it?
+What it can do?
+What is advantage/disadvantage?
+How to study it?
+
+1. Firstly, ReactJS is designed only for View Layer in MVC model, so there is not meaning when we try to compare it with other JS frameworks such as (AngularJS, Jquery, Ext JS...)
+
+2. In addition, there are 3 points we have to deeply understand: Component, State and Props -> why?
+
+And of course, it may have some advantages and disadvantages. 
+
+Let me talk about the advantages:
+ - First, it is easy to review & maintain source code: we can compare this advantage with Jquery (which is very strong for working with DOM). 
+ - Second, the way to use JSX makes components become easy to understand. It looks like we recommend moving internal JS inside HTML structure
+ - Third, it supports rendering HTML from server
+ - Final, it provides UI components collection
+ 
+Above all of these advantages, how about its disadvantages:
+ - First, it can be said that it is a pretty new framework, only for View layer and poor advanced documentation (I saw only advanced documentation for React Native)
+ - Besides, it does not support browsers that are bellow version IE8
+ - ...
+
+OK, that is all advantages as well as disadvantages of this framework that I got
+And finally, here is a usefull link to study this framework:
+ - http://www.reactexamples.com/ 
+ 
+ That's all my overview knowledge about ReactJS in today morning study
